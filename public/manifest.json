@@ -1,0 +1,26 @@
+{
+  "name": "ZEUS — رفيقك الذكي في رحلة التعلّم",
+  "short_name": "ZEUS",
+  "description": "ZEUS — رفيقك الذكي في رحلة التعلّم وبناء المستقبل المهني.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "icons": [
+    {
+      "src": "/zeus-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/zeus/23acdfe46_Screenshot_2026-08-24_042358-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
